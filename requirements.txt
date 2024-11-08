@@ -1,5 +1,5 @@
 ﻿streamlit
-openai==1.54.3
+openai
 gTTS
 pyttsx3
 pydub
