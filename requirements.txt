@@ -4,7 +4,6 @@ gTTS
 pyttsx3
 pydub
 ffmpeg-python
-pypiwin32
 python-dotenv
 speechrecognition
 soundfile
